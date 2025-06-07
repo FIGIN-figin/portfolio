@@ -1,0 +1,72 @@
+.new .new1
+{
+
+    display:flex;
+    gap:30px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgb(8, 8, 69);
+    color: white;
+    margin-top:10px;
+    
+    
+}
+.new1 a{
+    color: white;
+}
+a
+{
+
+    text-decoration: none;
+}
+.same a
+{
+
+    color:white;
+}
+.head .same
+{
+display:flex;
+margin-left: 60;
+gap: 20px;
+margin-top:-30
+
+    
+}
+.search .searchbox
+{
+    
+    margin-left: 400px;
+    margin-top:-19px;
+    border-radius: 20px;
+    width: 20%;
+    
+}
+.button 
+{
+
+    margin-left:1390px;
+    margin-top:-20px;
+}
+.button .button1
+{
+
+    border-radius: 20px;
+    background-color: rgb(255, 0, 0);
+}
+.button .button2
+{
+
+    border-radius: 20px;
+    background-color:red;
+}
+.link
+{
+
+    margin-left: 720px;
+    margin-top: -20px;
+}
+.link .link1
+{
+    border-radius: 20px;
+}
